@@ -1,0 +1,11 @@
+#kursywa {
+    color: red;
+}
+.container p{
+    color: green;
+
+}
+
+.paragraf3 ~ p{
+    color: blue;
+}
